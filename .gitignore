@@ -10,3 +10,14 @@ solution/BitBoxActivation/bin
 solution/BitBoxActivation/Log
 solution/BitBoxActivation/output
 solution/BitBoxActivation/app
+
+solution/ActivationDetection/.vscode
+solution/ActivationDetection/.vs
+solution/ActivationDetection/.config
+solution/ActivationDetection/v16
+solution/ActivationDetection/obj
+solution/ActivationDetection/bin
+solution/ActivationDetection/Log
+solution/ActivationDetection/output
+solution/ActivationDetection/app
+

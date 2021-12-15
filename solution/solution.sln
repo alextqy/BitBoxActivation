@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBoxActivation", "BitBoxActivation\BitBoxActivation.csproj", "{4E036491-AF17-41F8-AA6C-91B3C471901F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationDetection", "ActivationDetection\ActivationDetection.csproj", "{FE885BC9-9BE4-42E4-A178-1F8BA6F7EC5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E036491-AF17-41F8-AA6C-91B3C471901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E036491-AF17-41F8-AA6C-91B3C471901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E036491-AF17-41F8-AA6C-91B3C471901F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE885BC9-9BE4-42E4-A178-1F8BA6F7EC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE885BC9-9BE4-42E4-A178-1F8BA6F7EC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE885BC9-9BE4-42E4-A178-1F8BA6F7EC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE885BC9-9BE4-42E4-A178-1F8BA6F7EC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
