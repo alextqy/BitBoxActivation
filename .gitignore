@@ -21,3 +21,12 @@ solution/ActivationDetection/Log
 solution/ActivationDetection/output
 solution/ActivationDetection/app
 
+solution/Service/.vscode
+solution/Service/.vs
+solution/Service/.config
+solution/Service/v16
+solution/Service/obj
+solution/Service/bin
+solution/Service/Log
+solution/Service/output
+solution/Service/app
