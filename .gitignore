@@ -1,0 +1,12 @@
+/desktop.ini
+solution/.vs
+
+solution/BitBoxActivation/.vscode
+solution/BitBoxActivation/.vs
+solution/BitBoxActivation/.config
+solution/BitBoxActivation/v16
+solution/BitBoxActivation/obj
+solution/BitBoxActivation/bin
+solution/BitBoxActivation/Log
+solution/BitBoxActivation/output
+solution/BitBoxActivation/app
